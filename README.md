@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my background as a Computer Science Engineering student at JECRC University, Jaipur, Rajasthan, India. It highlights my technical skills, programming projects, and interest in software development.
 
-**Live Website:** [View My Portfolio](https://portfolio-25bcon1037.vercel.app/)
+**Live Website:** [View My Portfolio](portfolio-acme-0475.vercel.app)
 
 ## Features
 
@@ -51,7 +51,7 @@ portfolio/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pulkit25bcon/portfolio.git
+   git clone https://github.com/DEV73748
    ```
 
 2. Open the project folder:
@@ -68,11 +68,11 @@ portfolio/
 
 | Project | Description | Technologies |
 |---|---|---|
-| [C++ to Python Program Conversion](https://github.com/pulkit25bcon/python-basics-25bcon1037-factorial) | Programming exercises covering factorials, Fibonacci series, and structure-to-dictionary conversion. | C++, Python |
-| [Python Debugging and Testing](https://github.com/pulkit25bcon/Buggy_Python_Code_25BCON1037) | Debugging Python code and verifying corrected behavior with tests. | Python |
-| [Python Code Refactoring](https://github.com/pulkit25bcon/messy_25BCON1037) | Refactoring code to improve readability while preserving intended behavior. | Python, Cursor AI |
-| [Quiz App](https://github.com/pulkit25bcon/Quiz_25BCON1037) | Interactive quiz application. | HTML, CSS, JavaScript |
-| [Reading Book App](https://github.com/pulkit25bcon/ReadingBook) | Web application for recording books read and tracking reading progress. | HTML, CSS, JavaScript |
+| [C++ to Python Program Conversion](https://github.com/DEV73748/python-basics-25bcon1155-factorial.git) | Programming exercises covering factorials, Fibonacci series, and structure-to-dictionary conversion. | C++, Python |
+| [Python Debugging and Testing](https://github.com/DEV73748/Buggy_Python_Code_25BCON1155.git) | Debugging Python code and verifying corrected behavior with tests. | Python |
+| [Python Code Refactoring](https://github.com/DEV73748/messy_25BCON1155.git) | Refactoring code to improve readability while preserving intended behavior. | Python, Cursor AI |
+| [Quiz App](https://github.com/DEV73748/Quiz_25BCON1155.git) | Interactive quiz application. | HTML, CSS, JavaScript |
+| [Reading Book App](https://github.com/DEV73748/Readingbook.git) | Web application for recording books read and tracking reading progress. | HTML, CSS, JavaScript |
 
 ## Goals
 
@@ -83,9 +83,9 @@ portfolio/
 
 ## Contact
 
-- **GitHub:** [@pulkit25bcon](https://github.com/pulkit25bcon)
-- **Email:** [pb9266583@gmail.com](mailto:pb9266583@gmail.com)
-- **Portfolio:** [portfolio-25bcon1037.vercel.app](https://portfolio-25bcon1037.vercel.app/)
+- **GitHub:** [@Devendra](https://github.com/DEV73748)
+- **Email:** [davendrasaini6350@gmail.com](mailto:davendrasaini6350@gmail.com)
+- **Portfolio:** [portfolio-acme-0475.vercel.app](portfolio-acme-0475.vercel.app)
 
 ---
 
