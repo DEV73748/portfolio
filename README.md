@@ -1,4 +1,4 @@
-# Personal Portfolio — Pulkit Bansal
+# Personal Portfolio — Devndra
 
 A personal portfolio website showcasing my background as a Computer Science Engineering student at JECRC University, Jaipur, Rajasthan, India. It highlights my technical skills, programming projects, and interest in software development.
 
